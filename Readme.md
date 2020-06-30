@@ -23,10 +23,3 @@ Following packages are required:
 `requests`
 `json`
 `itertools`
-
-## Contributing and Collaborating
-Any contributions, comments, enhancements are welcome. 
-
-## Developers Team
-
-* **Viacheslav Nesterov**
